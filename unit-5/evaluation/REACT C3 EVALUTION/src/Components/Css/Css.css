@@ -1,0 +1,8 @@
+.parent{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    border: 1px solid black;
+}
